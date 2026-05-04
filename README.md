@@ -1,16 +1,36 @@
-## Hi there 👋
+# Mir Nurlan Razizada
 
-<!--
-**mirnurlan-data/mirnurlan-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Engineer | Data Architect | Ex-Senior DBA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a Senior Data Engineer with 8+ years of experience building high-performance data platforms, real-time pipelines, and scalable ETL systems.
+
+I specialize in:
+- Apache Spark & PySpark
+- Kafka (Real-time streaming)
+- Airflow (Workflow orchestration)
+- PostgreSQL / Oracle (Performance tuning)
+- AWS & GCP
+
+---
+
+## 🔥 Key Strengths
+- Designed and optimized large-scale data pipelines (TB-scale data)
+- Improved query performance by up to 60%
+- Built real-time streaming systems using Kafka + Spark
+- Strong hybrid expertise (Data Engineering + DBA)
+
+---
+
+## 📂 Projects
+- SQL Performance Tuning → Advanced query optimization  
+- Real-Time Data Pipeline → Kafka + Spark streaming  
+- End-to-End Data Platform → ETL + Reporting + DB Design  
+
+---
+
+## 📫 Contact
+Email: mirnurlanrezizade1@gmail.com  
+LinkedIn: https://www.linkedin.com/in/mir-nurlan-razizada-749a6b365/
