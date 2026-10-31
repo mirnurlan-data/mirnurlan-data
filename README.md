@@ -1,33 +1,33 @@
 # Mir Nurlan Razizada 👋
 
-**Senior Data Engineer | PostgreSQL & SQL Performance | Data Platforms**
+**Senior Data Engineer | SQL Performance & Data Platform Engineering**
 
-Based in Baku, Azerbaijan. I have 8+ years of combined experience in data engineering and enterprise database administration across telecommunications, retail, and pharmacy systems. My focus is reliable data ingestion, advanced SQL, ETL workflows, PostgreSQL, data quality, and operational analytics.
+I work with relational databases, ETL/ELT, Python, Linux automation, query optimization, and reliable data workflows. My background combines data engineering with enterprise database administration, including PostgreSQL, Oracle, and MySQL.
 
-## What I work on
+## Engineering portfolio — reproducible evidence
 
-- **Database performance:** PostgreSQL, Oracle, MySQL, query plans, indexing, and SQL tuning
-- **Data engineering:** SQL, Python, ETL/ELT, validation, data modeling, and reporting
-- **Production operations:** Linux, Bash, automation, backups, recovery, and incident troubleshooting
-- **Engineering labs:** Apache Spark, Kafka, dimensional modeling, and streaming systems
+| Project | Technical focus | Automated tests |
+| --- | --- | --- |
+| [PostgreSQL Performance Lab](https://github.com/mirnurlan-data/sql-performance-tuning) | Query plans, composite indexes, 400k synthetic orders, five-trial timing comparisons and correctness checks | [![SQL CI](https://github.com/mirnurlan-data/sql-performance-tuning/actions/workflows/ci.yml/badge.svg)](https://github.com/mirnurlan-data/sql-performance-tuning/actions/workflows/ci.yml) |
+| [Kafka + Spark Streaming](https://github.com/mirnurlan-data/real-time-data-pipeline) | Synthetic events, malformed/duplicate input tests, Parquet sink, checkpoint restart | [![Streaming CI](https://github.com/mirnurlan-data/real-time-data-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/mirnurlan-data/real-time-data-pipeline/actions/workflows/ci.yml) |
+| [Data Platform & ETL](https://github.com/mirnurlan-data/data-platform-project) | Python, star-like SQLite model, source-to-target reconciliation and defensive tests | [![ETL CI](https://github.com/mirnurlan-data/data-platform-project/actions/workflows/ci.yml/badge.svg)](https://github.com/mirnurlan-data/data-platform-project/actions/workflows/ci.yml) |
 
-## Selected portfolio projects
+### What I optimize for
 
-| Project | What you can inspect |
-| --- | --- |
-| [PostgreSQL Query Performance Lab](https://github.com/mirnurlan-data/sql-performance-tuning) | Synthetic dataset, reproducible query baseline, composite index, EXPLAIN ANALYZE, and CI |
-| [Real-Time Data Pipeline](https://github.com/mirnurlan-data/real-time-data-pipeline) | Kafka / Spark streaming architecture and engineering examples |
-| [Data Platform Project](https://github.com/mirnurlan-data/data-platform-project) | ETL, data modeling, and reporting examples |
+- **Correctness:** Validated source contracts, constraints, result equivalence, negative tests
+- **Observability:** Reproducible CI runs, PostgreSQL `EXPLAIN ANALYZE` evidence, quality report artifacts
+- **Recovery:** Checkpoint restart checks and explicit documentation of failure-mode limitations
+- **Practical performance:** Query plan reasoning, composite indexes, measured synthetic benchmarks
+- **Operational safety:** No secrets/client data, least-privilege GitHub Actions and safe demo database handling
 
-These public projects are **educational examples using synthetic data**, not disclosures of client systems. No production speedup or throughput claims are made without recorded measurements.
+These public repositories are **educational projects using synthetic data**, not client production deployments. Performance observations are bound to the benchmark's documented workload and methodology; no production-scale or end-to-end exactly-once claim is implied.
 
-## Teaching and community
+## Technology focus
 
-🎥 [ScriptToScale Lab on YouTube](https://www.youtube.com/@ScriptToScaleLab) — Python, SQL, data engineering, and practical automation tutorials.
+`SQL` · `PostgreSQL` · `Oracle` · `MySQL` · `Python` · `Spark / PySpark` · `Kafka` · `ETL / ELT` · `Linux` · `Docker` · `CI/CD` · `Data Modeling`
 
-## Contact
+## Learning and knowledge sharing
 
-- [LinkedIn](https://www.linkedin.com/in/mir-nurlan-razizada-749a6b365/)
-- [YouTube](https://www.youtube.com/@ScriptToScaleLab)
+🎥 [ScriptToScale Lab — YouTube](https://www.youtube.com/@ScriptToScaleLab) · [LinkedIn](https://www.linkedin.com/in/mir-nurlan-razizada-749a6b365/)
 
-*Interested in reliable data platforms, query performance, and measurable engineering outcomes.*
+*Interested in engineering data platforms that are explainable, testable, and operationally reliable.*
