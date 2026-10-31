@@ -1,36 +1,33 @@
-# Mir Nurlan Razizada
+# Mir Nurlan Razizada 👋
 
-Senior Data Engineer | Data Architect | Ex-Senior DBA  
+**Senior Data Engineer | PostgreSQL & SQL Performance | Data Platforms**
 
----
+Based in Baku, Azerbaijan. I have 8+ years of combined experience in data engineering and enterprise database administration across telecommunications, retail, and pharmacy systems. My focus is reliable data ingestion, advanced SQL, ETL workflows, PostgreSQL, data quality, and operational analytics.
 
-## 🚀 About Me
-I am a Senior Data Engineer with 8+ years of experience building high-performance data platforms, real-time pipelines, and scalable ETL systems.
+## What I work on
 
-I specialize in:
-- Apache Spark & PySpark
-- Kafka (Real-time streaming)
-- Airflow (Workflow orchestration)
-- PostgreSQL / Oracle (Performance tuning)
-- AWS & GCP
+- **Database performance:** PostgreSQL, Oracle, MySQL, query plans, indexing, and SQL tuning
+- **Data engineering:** SQL, Python, ETL/ELT, validation, data modeling, and reporting
+- **Production operations:** Linux, Bash, automation, backups, recovery, and incident troubleshooting
+- **Engineering labs:** Apache Spark, Kafka, dimensional modeling, and streaming systems
 
----
+## Selected portfolio projects
 
-## 🔥 Key Strengths
-- Designed and optimized large-scale data pipelines (TB-scale data)
-- Improved query performance by up to 60%
-- Built real-time streaming systems using Kafka + Spark
-- Strong hybrid expertise (Data Engineering + DBA)
+| Project | What you can inspect |
+| --- | --- |
+| [PostgreSQL Query Performance Lab](https://github.com/mirnurlan-data/sql-performance-tuning) | Synthetic dataset, reproducible query baseline, composite index, EXPLAIN ANALYZE, and CI |
+| [Real-Time Data Pipeline](https://github.com/mirnurlan-data/real-time-data-pipeline) | Kafka / Spark streaming architecture and engineering examples |
+| [Data Platform Project](https://github.com/mirnurlan-data/data-platform-project) | ETL, data modeling, and reporting examples |
 
----
+These public projects are **educational examples using synthetic data**, not disclosures of client systems. No production speedup or throughput claims are made without recorded measurements.
 
-## 📂 Projects
-- SQL Performance Tuning → Advanced query optimization  
-- Real-Time Data Pipeline → Kafka + Spark streaming  
-- End-to-End Data Platform → ETL + Reporting + DB Design  
+## Teaching and community
 
----
+🎥 [ScriptToScale Lab on YouTube](https://www.youtube.com/@ScriptToScaleLab) — Python, SQL, data engineering, and practical automation tutorials.
 
-## 📫 Contact
-Email: mirnurlanrezizade1@gmail.com  
-LinkedIn: https://www.linkedin.com/in/mir-nurlan-razizada-749a6b365/
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/mir-nurlan-razizada-749a6b365/)
+- [YouTube](https://www.youtube.com/@ScriptToScaleLab)
+
+*Interested in reliable data platforms, query performance, and measurable engineering outcomes.*
