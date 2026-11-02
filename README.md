@@ -14,6 +14,12 @@ For recruiters and engineering reviewers, these three public projects demonstrat
 
 Each repository contains runnable instructions and CI evidence. All datasets are synthetic. These examples complement professional experience; they are not presented as production deployments.
 
+## Cloud engineering — tested PostgreSQL + dbt architecture
+
+**[AWS-oriented Cloud Data Platform](https://github.com/mirnurlan-data/data-platform-project/tree/main/cloud)** — synthetic CSV validation, content-addressed S3 object design and checksum integrity checks, idempotent PostgreSQL transaction loading, dbt transformation and reconciliation tests, a sample Airflow DAG, and Terraform for a private encrypted S3 bucket. [Cloud CI evidence](https://github.com/mirnurlan-data/data-platform-project/actions/workflows/cloud-ci.yml).
+
+**Evidence boundary:** GitHub Actions validates PostgreSQL and dbt locally and simulates S3 with an in-memory client. Terraform and Airflow are reference configurations, **not a deployed AWS production service**.
+
 ## Engineering portfolio — reproducible evidence
 
 | Project | Technical focus | Automated tests |
