@@ -4,6 +4,16 @@
 
 I work with relational databases, ETL/ELT, Python, Linux automation, query optimization, and reliable data workflows. My background combines data engineering with enterprise database administration, including PostgreSQL, Oracle, and MySQL.
 
+## Technical review: start here
+
+For recruiters and engineering reviewers, these three public projects demonstrate distinct capabilities:
+
+1. **Database performance:** PostgreSQL query plans, targeted index design, repeatable timing trials and correctness checks.
+2. **Streaming reliability:** Kafka ingestion, Spark processing, negative-event tests and checkpoint restart verification.
+3. **Data quality:** Python/SQL batch ETL, dimensional modeling and full-record source-to-target reconciliation.
+
+Each repository contains runnable instructions and CI evidence. All datasets are synthetic. These examples complement professional experience; they are not presented as production deployments.
+
 ## Engineering portfolio — reproducible evidence
 
 | Project | Technical focus | Automated tests |
